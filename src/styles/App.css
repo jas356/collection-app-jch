@@ -2,5 +2,10 @@
     aspect-ratio: 1 / 1;
     object-fit: cover;
     border: 2px;
+}
 
+body {
+    background-image: url(https://i.pinimg.com/736x/f3/1e/31/f31e31b27ac410a90f6fcf7d2a4d8b33.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
 }
